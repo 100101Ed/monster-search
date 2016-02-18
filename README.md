@@ -1,6 +1,10 @@
 --
-# Basic Selenium Project
-* The foundation for all your selenium projects Using TestNG
+# Monster.com
+
+* Create a script that searches monster.com for job listings. 
+* Their should be at-least one data set.
+
+
 
 ## Helpfull info
 * [Overview for github] (http://rogerdudler.github.io/git-guide/)
